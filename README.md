@@ -16,4 +16,4 @@ mvn clean install
 java -jar target/movies-vertx-1.0.0-fat.jar
 ```
 
-### [MoviesApp](http://localhost:8080)
+### [Access MoviesApp](http://localhost:8080)
