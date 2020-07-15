@@ -1,0 +1,29 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# React
+
+# dependencies
+/movies-app/node_modules
+/movies-app/.pnp
+/movies-app.pnp.js
+
+# testing
+/movies-app/coverage
+
+# production
+/movies-app/build
+
+# misc
+/movies-app/.DS_Store
+/movies-app/.env.local
+/movies-app/.env.development.local
+/movies-app/.env.test.local
+/movies-app/.env.production.local
+
+/movies-app/npm-debug.log*
+/movies-app/yarn-debug.log*
+/movies-app/yarn-error.log*
+
+# Vert.x
+/movies-vertx/*.iml
+/movies-vertx/target
