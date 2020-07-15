@@ -3,7 +3,7 @@
 ### React
 
 ```
-cd ${/path/to/vertx+react}/movies-app
+cd ${/path/to/this/repo}/movies-app
 npm install
 npm run-script build
 ```
@@ -11,7 +11,7 @@ npm run-script build
 ### Vert.x
 
 ```
-cd ${/path/to/vertx+react}/movies-vertx
+cd ${/path/to/this/repo}/movies-vertx
 mvn clean install
 java -jar target/movies-vertx-1.0.0-fat.jar
 ```
